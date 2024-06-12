@@ -1,1 +1,1 @@
-# Chat with YMCA to resolve your issues.
+# Chat with campusAI to resolve your issues.
