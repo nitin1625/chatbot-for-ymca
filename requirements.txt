@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
+pdfplumber
+chromadb
+fastembed
+python-dotenv
+nest-asyncio
